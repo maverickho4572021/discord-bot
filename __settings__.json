@@ -1,0 +1,8 @@
+{
+    "invite": "https://discord.com/api/oauth2/",
+    "prefix": "?",
+    "name": "BOT NAME",
+    "extension": [
+        "avatar", "command", "emoji", "event", "genshin_search", "keyword", "log", "role", "spoiler"
+    ]
+}
